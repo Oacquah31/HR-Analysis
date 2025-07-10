@@ -62,7 +62,7 @@ Interactive Power BI report that provides deep insights into workforce compositi
 
 ## 📷 Dashboard Preview
 
-![HR Dashboard](assets/hr_dashboard_preview.png)
+![HR Dashboard](https://github.com/Oacquah31/HR-Analysis/blob/main/hr.png)
 
 > Replace with your actual GitHub image path if hosted in `assets/`.
 
@@ -83,8 +83,4 @@ This HR dashboard enables strategic HR planning by surfacing key metrics related
 
 ---
 
-> 📌 **Next Steps**  
-> - Add employee satisfaction and performance data  
-> - Integrate predictive analytics for attrition risk  
-> - Automate data refresh with scheduled Power BI service  
-> - Expand to include department-level insights  
+
